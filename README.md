@@ -15,7 +15,7 @@ Whether you're a startup or enterprise, we provide scalable, strategic AI that d
 
 📍 **Based in:** Birmingham, United Kingdom  
 🌍 **Website:** [sobiai.com](https://sobiai.com)  
-📧 **Contact:** social@sobia.com  
+📧 **Contact:** social@sobiai.com  
 
 ---
 
